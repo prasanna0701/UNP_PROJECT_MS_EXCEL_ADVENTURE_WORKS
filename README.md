@@ -11,4 +11,6 @@ Key Highlights:
 5. Applied relevant Excel functions and formulas to optimize and structure the data for effective visualization.
 
 
-PDF Link: https://www.canva.com/design/DAF72X3Eog4/PNIOQj5-DbMINZOADuYaLQ/edit?utm_content=DAF72X3Eog4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Ms excel link: https://1drv.ms/x/s!AlX0RHIdrSn8jDibybS6L3X5uX8u?e=dMzUNF
+
+PDF Link: https://drive.google.com/file/d/17-Vf4JOrnp-Tul9Ld4uCAe81W4Rmvzhs/view?usp=drivesdk
